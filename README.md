@@ -13,7 +13,7 @@ Each week's folder contains:
 - **Practice At Home**: Additional problems for self-practice.
 - **Challenge Yourself**: Advanced problems for deeper understanding.
 
-All codes and questions are collected to aid in lab FAT preparation.
+`All codes and questions are collected to aid in lab FAT preparation.`
 
 ---
 
@@ -63,16 +63,12 @@ Below are the topics as per the folder names in this repository:
 - **MCQ**: Questions on dynamic programming techniques for sequences.
 - **Practice At Home / Challenge Yourself**: More DP sequence problems.
 
----
-
 ### **Week 8: Digraph**
 
 - **Lab Exercise**: Directed graph representations, traversal (DFS/BFS), topological sort, strongly connected components.
 - **MCQ**: Concepts and properties of digraphs, edge directions, and algorithmic implications.
 - **Practice At Home / Challenge Yourself**: Problems on DAGs, cycle detection, and reachability.
 - **Lab completion**: 100%
-
----
 
 ### **Week 9: APSP (All-Pairs Shortest Paths)**
 
@@ -81,8 +77,6 @@ Below are the topics as per the folder names in this repository:
 - **Practice At Home / Challenge Yourself**: Variants and optimizations of APSP.
 - **Lab completion**: 50%
 
----
-
 ### **Week 10: Maximum Flow**
 
 - **Lab Exercise**: Ford–Fulkerson, Edmonds–Karp, residual networks, min-cut / max-flow theorem.
@@ -90,16 +84,12 @@ Below are the topics as per the folder names in this repository:
 - **Practice At Home / Challenge Yourself**: Network flow problem modeling (bipartite matching, circulation with demands).
 - **Lab completion**: 50%
 
----
-
 ### **Week 11: nQueens**
 
 - **Lab Exercise**: Backtracking solutions for n-Queens, pruning strategies, constraint propagation.
 - **MCQ**: Symmetry reductions, complexity, and heuristics.
 - **Practice At Home / Challenge Yourself**: Improve solver speed and count all solutions for given n.
 - **Lab completion**: 0%
-
----
 
 ### **Week 12: 15-puzzle problem**
 
