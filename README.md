@@ -65,6 +65,51 @@ Below are the topics as per the folder names in this repository:
 
 ---
 
+### **Week 8: Digraph**
+
+- **Lab Exercise**: Directed graph representations, traversal (DFS/BFS), topological sort, strongly connected components.
+- **MCQ**: Concepts and properties of digraphs, edge directions, and algorithmic implications.
+- **Practice At Home / Challenge Yourself**: Problems on DAGs, cycle detection, and reachability.
+- **Lab completion**: 100%
+
+---
+
+### **Week 9: APSP (All-Pairs Shortest Paths)**
+
+- **Lab Exercise**: Floyd–Warshall algorithm, repeated Dijkstra for dense/sparse graphs, negative weight handling.
+- **MCQ**: Complexity comparisons, correctness, and use-cases for APSP algorithms.
+- **Practice At Home / Challenge Yourself**: Variants and optimizations of APSP.
+- **Lab completion**: 50%
+
+---
+
+### **Week 10: Maximum Flow**
+
+- **Lab Exercise**: Ford–Fulkerson, Edmonds–Karp, residual networks, min-cut / max-flow theorem.
+- **MCQ**: Flow conservation, augmenting paths, complexity trade-offs.
+- **Practice At Home / Challenge Yourself**: Network flow problem modeling (bipartite matching, circulation with demands).
+- **Lab completion**: 50%
+
+---
+
+### **Week 11: nQueens**
+
+- **Lab Exercise**: Backtracking solutions for n-Queens, pruning strategies, constraint propagation.
+- **MCQ**: Symmetry reductions, complexity, and heuristics.
+- **Practice At Home / Challenge Yourself**: Improve solver speed and count all solutions for given n.
+- **Lab completion**: 0%
+
+---
+
+### **Week 12: 15-puzzle problem**
+
+- **Lab Exercise**: Sliding puzzle representation, solvability test (inversions), A* search with heuristics (Manhattan distance).
+- **MCQ**: State-space size, admissible heuristics, and performance trade-offs.
+- **Practice At Home / Challenge Yourself**: Implement an efficient A* solver and experiment with heuristic combinations.
+
+
+---
+
 ## Contribution
 
 Pull Requests (PRs) are appreciated!  
